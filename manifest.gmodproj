@@ -1,0 +1,10 @@
+Project {
+    projectName         "novautils"
+    projectAuthor       "novacbn"
+    projectVersion      "0.2.0"
+    projectRepository   "github://novacbn/novautils"
+
+    entryPoints {
+        {"novacbn/novautils/exports", "novautils"}
+    }
+}
