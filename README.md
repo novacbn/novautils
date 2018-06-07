@@ -1,6 +1,6 @@
 # novautils
 
-> **gmodproj >= 0.3.0**
+> **gmodproj >= 0.4.0**
 
 ## Description
 
@@ -16,7 +16,7 @@ If wanting to use with a standard Lua platform, download the latest `novautils.l
 
 Alternatively, if using with `gmodproj`. Download the latest `.zip` or `.tar.gz` archive from the [Releases](https://github.com/novacbn/novautils/releases). Extract the contents of `src` directory into your project's `packages` directory under a `novacbn/novautils` directory.
 
-# Building
+## Building
 
 ```bash
 # Clone the repository

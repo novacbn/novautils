@@ -1,0 +1,11 @@
+name:   "novautils"
+author: "novacbn"
+
+version:    "0.2.1"
+repository: "github://novacbn/novautils"
+
+projectBuilds:
+    "novacbn/novautils/exports": "novautils"
+
+Packager:
+    targetPlatform: "lua"
